@@ -1,0 +1,2 @@
+# PTCGLiveAutoCode
+用于自动输入PTCGLive的code
